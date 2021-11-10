@@ -1,3 +1,0 @@
-main.cpp:6:6: error: invalid preprocessing directive #freshfreshfresheeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
-    6 |     #freshfreshfresheeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
-      |      ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

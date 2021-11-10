@@ -3,6 +3,8 @@
 using namespace std;
 
 int main() {
-    #freshfreshfresheeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+    string s;
+    cin>>s;
+    cout<<s;
     return 0;
 }
